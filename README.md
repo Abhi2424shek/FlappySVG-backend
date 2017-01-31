@@ -1,6 +1,4 @@
-# FlappySVG-backend
-A FlappySVG app that was build for GCI
+# FlappySVG Android APP
+A FlappySVG android app that was build for FOSSASIA community during GCI with an interactive UI
 
-The app which contains a navigation drawer and a splash screen which will add to a more interesting UI.
-All credits goes to Abishek V Ashok
-Code is licensed under creative commons license.
+Android APK source repository for the apk which enables to play FlappySVG. [Currently has only the online support]
